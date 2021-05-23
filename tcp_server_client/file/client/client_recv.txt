@@ -1,0 +1,20 @@
+HTTP/1.1 200 
+Content-Disposition: attachment; filename="horoscope.csv"
+Content-Type: text/csv;charset=Shift_JIS
+Content-Length: 244
+Date: Mon, 10 May 2021 14:54:00 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+
+"おひつじ座","ふつう"
+"おうし座","最悪"
+"ふたご座","最悪"
+"かに座","最悪"
+"しし座","最悪"
+"おとめ座","最悪"
+"てんびん座","ラッキー"
+"さそり座","ラッキー"
+"いて座","ラッキー"
+"やぎ座","ラッキー"
+"みずがめ座","ふつう"
+"うお座","最悪"

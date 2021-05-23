@@ -1,0 +1,20 @@
+POST /posttest/ HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Content-Length: 348
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: null
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7,zh-TW;q=0.6,zh;q=0.5
+
+text_name=abc+%E6%97%A5%E6%9C%AC%E8%AA%9E&password_name=def+nihongo+&textarea_name=abc+%E6%97%A5%E6%9C%AC%E8%AA%9E%0D%0Adef%E3%80%80%E6%97%A5%E6%9C%AC%E8%AA%9E&radio_name=radio1&check_name=check2&check_name=check3&hidden_name=hidden_value%E6%97%A5%E6%9C%AC%E8%AA%9E&file_name=SqlSessionProducer.java&submit_name=%E9%80%81%E3%82%8B%E3%82%88%EF%BC%81
